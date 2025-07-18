@@ -70,15 +70,9 @@ A `useRef` is used to copy the generated password to the clipboard.
 - Save user preferences in localStorage  
 - Add dark/light mode toggle
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ### 🧑‍💻 Author
 
 **Anish Sapkota**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-Instagram: [https://instagram.com/yourhandle](https://instagram.com/yourhandle)
+GitHub: ianishsapkota 
